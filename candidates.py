@@ -23,8 +23,8 @@ def main():
     
     scrapeUSCA = "https://www.linkedin.com/search/results/people/?facetGeoRegion=%5B%22us%3A0%22%2C%22ca%3A0%22%5D&facetIndustry=%5B%2225%22%5D&origin=FACETED_SEARCH"
     
-    user = 'pancho.rodriguez3000@gmail.com'
-    passw = '12345678!@'
+    user = 'email here'
+    passw = 'password here'
     
     driver = webdriver.Firefox()
     
